@@ -9,7 +9,7 @@
 
 Example Usage
 
-        https://dour-handsaw.glitch.me/whoami
+        https://hurricane-microwave.glitch.me/whoami
 
 Example Output
 
